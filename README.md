@@ -1,4 +1,4 @@
 rubySeleniumParallel
 ====================
 
-sample code for ruby selenium-webdirver minitest running in parallel
+sample code for ruby selenium-webdriver minitest running in parallel
